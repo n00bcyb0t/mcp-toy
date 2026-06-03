@@ -1,0 +1,4 @@
+node_modules/
+toy.db
+*.log
+.fortify
