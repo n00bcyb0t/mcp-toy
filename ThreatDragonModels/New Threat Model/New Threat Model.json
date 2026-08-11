@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-08-11",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Carlos Lago",
+    "description": "MCP Server for digest findings",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Henrique",
+    "threatTop": 0
+  }
+}
