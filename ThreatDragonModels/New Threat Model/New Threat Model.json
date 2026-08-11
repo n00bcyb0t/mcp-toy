@@ -37,6 +37,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -120,7 +121,6 @@
               ]
             },
             "id": "f05fd326-6acc-44ca-90d3-468866c6e03f",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "Actor",
@@ -151,6 +151,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -234,7 +235,6 @@
               ]
             },
             "id": "c0579f1b-6117-4e8f-9c2f-5ed09d419832",
-            "zIndex": 2,
             "data": {
               "type": "tm.Process",
               "name": "Nginx",
@@ -402,6 +402,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -485,7 +486,6 @@
               ]
             },
             "id": "2e822cde-b5fc-4a67-8ce9-f6883ef6f397",
-            "zIndex": 11,
             "data": {
               "type": "tm.Process",
               "name": "Process",
@@ -519,6 +519,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 12,
             "ports": {
               "groups": {
                 "top": {
@@ -602,7 +603,6 @@
               ]
             },
             "id": "99e49cc9-1432-47e7-ab49-f36b11d9beb8",
-            "zIndex": 12,
             "data": {
               "type": "tm.Process",
               "name": "Process",
@@ -636,6 +636,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 13,
             "ports": {
               "groups": {
                 "top": {
@@ -719,7 +720,6 @@
               ]
             },
             "id": "b1ff9118-64e7-40e2-924a-9af506d36dfd",
-            "zIndex": 13,
             "data": {
               "type": "tm.Process",
               "name": "Process",
